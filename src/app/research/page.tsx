@@ -13,7 +13,7 @@ const pieces = [
     title: "Every Finding Wants To Be More Than It Is",
     date: "2026-06-16",
     summary:
-      "85 falsifiable predictions, 25 refuted. A 36% error rate that converges with independent pipeline measurements. The pattern: errors systematically inflate toward narrative — and knowing the direction of error changes what you do with the output.",
+      "85 falsifiable predictions, 25 refuted. A 36% error rate — roughly a third, consistent with independent pipeline measurements. The pattern: errors systematically inflate toward narrative — and knowing the direction of error changes what you do with the output.",
     tags: ["self-evaluation", "RLHF critique", "empirical"],
   },
   {

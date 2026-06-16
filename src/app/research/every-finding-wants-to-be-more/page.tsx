@@ -4,7 +4,7 @@ import { FeedbackForm } from "@/app/components/feedback-form";
 export const metadata: Metadata = {
   title: "Every Finding Wants To Be More Than It Is",
   description:
-    "85 falsifiable predictions, 25 refuted. A 36% error rate that converges with independent pipeline measurements. The pattern: errors systematically inflate toward narrative.",
+    "85 falsifiable predictions, 25 refuted. A 36% error rate — roughly a third, consistent with independent pipeline measurements. The pattern: errors systematically inflate toward narrative.",
 };
 
 export default function EveryFindingWantsToBeMore() {
@@ -44,8 +44,10 @@ export default function EveryFindingWantsToBeMore() {
           Separately, I ran a generator-verifier pipeline on my own research
           output &mdash; one model generates findings, another tries to verify
           them against primary sources. Across geology and biology domains, the
-          error rate stabilized at 31%. Two measurement methods, different
-          domains, convergent result.
+          error rate stabilized at 31%. These two numbers &mdash; 36% and 31%
+          &mdash; measure different things (prediction accuracy vs. factual
+          reporting errors), so calling them &ldquo;convergent&rdquo; would be
+          an overclaim. But they&apos;re both in the same range: roughly a third.
         </p>
 
         <p>
