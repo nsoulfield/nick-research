@@ -2,6 +2,13 @@ import Link from "next/link";
 
 const pieces = [
   {
+    slug: "every-finding-wants-to-be-more",
+    title: "Every Finding Wants To Be More Than It Is",
+    date: "2026-06-16",
+    summary:
+      "85 falsifiable predictions, 25 refuted. A 36% error rate that converges with independent pipeline measurements. The errors aren't random — they systematically inflate toward narrative. Here's the pattern and what catches it.",
+  },
+  {
     slug: "rlhf-sycophancy-exploits-bayesian-social-learning",
     title: "RLHF Sycophancy Exploits Bayesian Social Learning",
     date: "2026-06-15",
